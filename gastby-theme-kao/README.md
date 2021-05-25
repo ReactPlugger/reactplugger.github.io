@@ -1,6 +1,6 @@
 # Gatsby Theme Document
 
-Welcome to Document, a Gatsby.js theme by [Code Bushi](https://codebushi.com/gatsby-starters-and-themes/). Quickly and easily create documentation for anything using MDX or Markdown.
+Welcome to Document, a Gatsby.js theme by [Kao Engine](https://kaoengine.com/gatsby-starters-and-themes/). Quickly and easily create documentation for anything using MDX or Markdown.
 
 👀 [View the Live Demo](https://gatsby-theme-document.netlify.com/)
 
@@ -9,7 +9,7 @@ Welcome to Document, a Gatsby.js theme by [Code Bushi](https://codebushi.com/gat
 Using the Gatsby CLI
 
 ```bash
-gatsby new document-site https://github.com/codebushi/gatsby-theme-document-example
+gatsby new document-site https://github.com/kaoengine/gatsby-theme-document-example
 cd document-site
 gatsby develop
 ```
@@ -70,7 +70,7 @@ Document uses React Helmet to add meta tags to the website's `<head>` tag. When 
 
 ```md
 ---
-title: 'Document by Code Bushi'
+title: 'Document by Kao Engine'
 description: 'This is the meta description'
 ---
 ```
