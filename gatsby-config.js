@@ -1,18 +1,9 @@
 module.exports = {
-    pathPrefix: "/reactplugger",
     siteMetadata: {
-        title: 'react-plugger',
+        title: 'react-pluger',
     },
     plugins: [
-        'gatsby-plugin-sass',
-        {
-            resolve: 'gatsby-plugin-google-analytics',
-            options: {
-                trackingId: '121416377',
-            },
-        },
         'gatsby-plugin-react-helmet',
-        'gatsby-plugin-sitemap',
         {
             resolve: 'gatsby-plugin-manifest',
             options: {
